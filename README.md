@@ -3,16 +3,26 @@
 
 🌟 Overview
 This project implements a hybrid deep learning model combining:
+
 🤖 BERT embeddings
+
 🔄 Bidirectional LSTM
+
 🎯 SVM classifier
+
 to detect fake news headlines with 91.5% accuracy!
 ---
+
 🚀 Quick Start
+
 ⚙️ Prerequisites
+
 Python 3.6+
+
 TensorFlow 2.x
+
 Transformers library
+
 Scikit-learn
 Pandas, NumPy
 ---
