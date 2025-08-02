@@ -1,4 +1,6 @@
-FactVerifier-AI-Powered-News-Authenticity-Detection
+**FactVerifier-AI-Powered-News-Authenticity-Detection**
+
+
 🌟 Overview
 This project implements a hybrid deep learning model combining:
 
